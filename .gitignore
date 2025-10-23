@@ -27,3 +27,8 @@ dist-ssr
 .env
 .env.local
 .env.production
+
+# Documentation and setup files
+CLAUDE.md
+OFFLINE_MODE.md
+SUPABASE_SETUP.md
